@@ -1,0 +1,7 @@
+To Do list
+- learn php
+- learn logic
+- git and github
+- json
+- composer
+- wsl2
