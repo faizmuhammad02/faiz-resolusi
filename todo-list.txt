@@ -1,9 +1,8 @@
 To Do list
 - learn php
-  * laravel
+  * Phalcon framework
 - learn logic
 - git and github
 - json
 - composer
 - wsl2
-
