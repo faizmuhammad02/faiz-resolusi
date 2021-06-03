@@ -6,7 +6,3 @@ To Do list
 - json
 - composer
 - wsl2
-- javascript
-  * React.js
-  * Vue.js
-- Phyton
